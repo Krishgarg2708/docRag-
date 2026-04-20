@@ -1,0 +1,6 @@
+{
+  "name": "Contextual AI Q&A",
+  "description": "A precision AI assistant that answers questions strictly based on uploaded document context, ensuring zero hallucinations and accurate data extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
